@@ -13,7 +13,8 @@ I build software at the intersection of these worlds—leveraging AI as a force 
 
 ---
 
-📫 **Get in touch:** [github.com/Flx-xlF](https://github.com/Flx-xlF).
+📫 **Get in touch:** [Start a discussion](https://github.com/Flx-xlF/Flx-xlF/discussions). 
 ☕ **Enjoy my work?** [Tip me on Ko-fi](https://ko-fi.com/flxxlf).
+
 
 *Built with care (and a bit of madness).*
