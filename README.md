@@ -14,6 +14,6 @@ I build software at the intersection of these worlds—leveraging AI as a force 
 ---
 
 📫 **Get in touch:** [github.com/Flx-xlF](https://github.com/Flx-xlF)  
-☕ **Enjoy my work?** [Fund my mountain connectivity on Ko-fi](https://ko-fi.com/flxxlf)  
+☕ **Enjoy my work?** [Tip me on Ko-fi](https://ko-fi.com/flxxlf)  
 
 *Built with care (and a bit of madness).*
