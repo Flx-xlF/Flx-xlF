@@ -2,7 +2,7 @@
 
 I'm an interdisciplinary builder based in Switzerland.
 
-Born in the early 80s, my career spans **Industrial Design**, a **Master in Legal Studies**, and over a decade in **corporate communications** for a major Swiss enterprise. 
+Born in the early 80s, my career spans **Industrial Design**, a **Master in Legal Studies**, and a decade in **corporate communications** for a major Swiss enterprise. 
 
 I build software at the intersection of these worlds—leveraging AI as a force multiplier to expand my coding reach and turn conceptual ideas into tools that are actually useful.
 
